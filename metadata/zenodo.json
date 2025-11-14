@@ -1,0 +1,14 @@
+{
+  "title": "ASEA Redox Knowledge Cluster",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "A collection of scientific papers authored by Cliff Walker covering redox signalling, Nrf2 activation, glutathione synthesis, HO-1 expression, and cellular resilience mechanisms. This repository contains archived research outputs and supporting materials aligned with Zenodo DOIs and ORCID records.",
+  "creators": [
+    {
+      "name": "Walker, Cliff",
+      "affiliation": "Cliff Walker Consulting"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0"
+}
