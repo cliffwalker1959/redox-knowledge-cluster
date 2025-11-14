@@ -27,7 +27,7 @@ The repository includes:
 ### **1. Redox Signalling & Human Cellular Response: A Technical Overview**  
 **Type:** Scientific Review  
 **Status:** Final  
-**DOI:** *To be added after Zenodo publication*  
+**DOI:** https://doi.org/10.5281/zenodo.17612807
 **Summary:**  
 A comprehensive review of redox signalling mechanisms, the biological role of reactive oxygen species, Nrf2 pathway activation, mitochondrial communication, and implications for human health and cellular resilience.
 
@@ -91,7 +91,7 @@ Please cite this repository and all papers using:
 Walker, C. (2025). ASEA Redox Knowledge Cluster. GitHub.
 https://github.com/cliffwalker1959/redox-knowledge-cluster
 
-DOI: [insert DOI when Zenodo publishes]
+DOI: https://doi.org/10.5281/zenodo.17612807
 
 
 Each individual paper will also include its own APA and BibTeX citation block once DOIs are issued.
