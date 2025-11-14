@@ -5,7 +5,7 @@ authors:
   - family-names: Walker
     given-names: Cliff
     affiliation: "Cliff Walker Consulting"
-    orcid: "https://orcid.org/[INSERT CLIFF'S ORCID ID]"
+    orcid: "https://orcid.org/ 0009-0001-6491-4296
 doi: "10.5281/zenodo.17612807"
 repository-code: "https://github.com/cliffwalker1959/redox-knowledge-cluster"
 version: "1.0.0"
