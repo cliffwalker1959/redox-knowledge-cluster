@@ -36,7 +36,7 @@ A comprehensive review of redox signalling mechanisms, the biological role of re
 ### **2. Enhanced Glutathione Synthesis & HO-1 Expression Through Nrf2 Activation**  
 **Type:** Scientific Paper  
 **Status:** Final  
-**DOI:** *To be added after Zenodo publication*  
+**DOI:** https://doi.org/10.5281/zenodo.17612926
 **Summary:**  
 Explores how redox-based signalling molecules influence glutathione production, HO-1 expression, and antioxidant defense systems. Includes review of in-vitro and biochemical pathways related to ASEA’s formulation.
 
@@ -45,7 +45,7 @@ Explores how redox-based signalling molecules influence glutathione production, 
 ### **3. Gene Expression Modulation in Redox-Signalling-Treated Human Cells**  
 **Type:** Scientific Summary  
 **Status:** Final  
-**DOI:** *To be added after Zenodo publication*  
+**DOI:** https://doi.org/10.5281/zenodo.17612957
 **Summary:**  
 A short paper summarising gene expression changes observed in human cells exposed to redox signalling molecules, including validated upregulation patterns and pathway associations.
 
@@ -63,7 +63,7 @@ A short paper summarising gene expression changes observed in human cells expose
 
 ## 🔗 External Links
 
-- **ORCID (Cliff Walker):** https://orcid.org/ *[Insert Cliff's ORCID ID]*  
+- **ORCID (Cliff Walker):** https://orcid.org/ 0009-0001-6491-4296
 - **Zenodo Community:** https://zenodo.org  
 - **Official Website:** https://cliffwalker.com  
 
